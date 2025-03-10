@@ -1,0 +1,15 @@
+body{
+      background-image: url("https://media.islamicity.org/wp-content/uploads/2024/03/Ramadan-moon.jpg");
+      
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+h1{
+      text-align: center;
+      margin-top: 200px;
+      font-size: 80px;
+      background: rgb(243,98,0);
+background: linear-gradient(63deg, rgba(243,98,0,1) 27%, rgba(6,88,193,1) 66%);
+-webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
